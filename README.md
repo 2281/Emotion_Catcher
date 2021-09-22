@@ -1,5 +1,5 @@
 <h2>Emotion Catcher</h2> <br>
-![](/assets/images/markdown/markdown.png)
+![](assets/images/markdown/markdown.png)
 Desc: Will catch all about you in social networks <br>
 Tech: Python, Flask, Telegram, Word2vec <br>
 <br>
